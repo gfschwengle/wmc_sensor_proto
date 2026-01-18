@@ -1,0 +1,50 @@
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# KiCAD backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+fp-info-cache
+*.net
+
+# KiCAD temporary files
+_autosave-*
+*.000
+*.bck
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Documentation builds
+docs/_build/
+docs/.buildinfo
