@@ -1,8 +1,6 @@
 # PlatformIO
 .pio/
 .vscode/
-.pioenvs/
-.piolibdeps/
 
 # Build artifacts
 *.o

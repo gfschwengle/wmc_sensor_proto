@@ -123,11 +123,6 @@ Follow the bring-up procedure in `hardware/docs/bringup.md`.
    cd capsensor_hva/firmware
    ```
 
-3. **Install Dependencies**
-   ```bash
-   pio pkg install
-   ```
-
 ### 2.2 Build Firmware
 
 1. **Configure Build** (if needed)

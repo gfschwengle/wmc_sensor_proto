@@ -16,8 +16,7 @@ The Capsensor HVA firmware is built using the Arduino framework with PlatformIO 
 
 1. Clone the repository
 2. Navigate to the `firmware/` directory
-3. Install dependencies: `pio pkg install`
-4. Build: `pio run`
+3. Build (dependencies will be installed automatically): `pio run`
 
 ## Architecture
 
