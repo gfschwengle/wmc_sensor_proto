@@ -1,0 +1,44 @@
+Reference,Qty,Value,DNP,Footprint,LCSC
+"C1,C5,C6,C8,C9,C11,C14,C17,C18,C19,C20,C21",12,0.1u,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1845706
+"C2,C4,C15,C22",4,10uF,,schwengle-electronics:CAPC3216X110N,C1954014
+C3,1,4n7,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C2170406
+C7,1,1u,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C2167376
+C10,1,4.7uF,,schwengle-electronics:CAPC3216X110N,C118128
+"C12,C13",2,100pF,DNP,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+C16,1,1uF,,schwengle-electronics:CAPC3216X110N,C116269
+"D1, D3, D4",3,LED RED,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C94868
+"D2, D5, D7",3,LED Green,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C125090
+"D6, D8",2,LED BLUE,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C98222
+F1,1,Fuse,,Fuse:Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder,C3762512
+F2,1,Fuse,,Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C271757
+J1,1,Conn_01x05_Pin,,Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Left,C7127982
+J2,1,Conn_01x02_Socket,,schwengle-electronics:JST_S2B-PH-SM4-TB,C295747
+J3,1,Micro_SD_Card Wurth 693072010801,,Connector_Card:microSD_HC_Wuerth_693072010801,
+J4,1,CX90B-16P1,,schwengle-electronics:HIROSE_CX90B-16P1,C3198004
+"J5,J6,J7",3,Screw_Terminal_01x02,,TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,C592983
+"Q1,Q2",2,BC817,,Package_TO_SOT_SMD:SOT-23,C554103
+"R1,R2",2,5k1,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2479694
+R3,1,1M,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2479714
+R4,1,330,,Resistor_SMD:R_0805_2012Metric,C2479639
+R5,1,22K1,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2479697
+R6,1,47K5,,Resistor_SMD:R_0805_2012Metric,C3971326
+R7,1,1K,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2441430
+"R8,R9",2,330,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2479639
+"R10,R11,R12,R13,R14,R15,R16,R17,R18,R21,R22,R23,R26,R28",14,10k,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C237755
+"R19,R20",2,4k7,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C2479702
+"R24,R25,R27",3,50,,Resistor_SMD:R_0805_2012Metric,C4179671
+"R29,R30",2,1k,DNP,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+"SW1,SW2",2,TL3305AF260QG,,schwengle-electronics:SW_TL3305AF260QG,C2886902
+"TP1,TP2",2,Test MISO,,TestPoint:TestPoint_Pad_D1.0mm,
+TP3,1,Test CLK,,TestPoint:TestPoint_Pad_D1.0mm,
+TP4,1,TEST CS_SD,,TestPoint:TestPoint_Pad_D1.0mm,
+TP5,1,TEST CS,,TestPoint:TestPoint_Pad_D1.0mm,
+U1,1,LM1117MPX-3.3/NOPB,,schwengle-electronics:DCY0004A_M,C9662
+U2,1,"TVS, PRTR5V0U2X,215",,Package_TO_SOT_SMD:SOT-143,C12333
+U3,1,CP2102N-Axx-xQFN20,,Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm,C969913
+U4,1,BME280_ADJ,,Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,C92489
+U5,1,IP4252CZ16-8-TTL_1,,IP4252CZ16_8_TTL_1:QFN16_SOT1168-1_NEX,C458218
+U6,1,MCP73871,,Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,C511310
+U7,1,FDC1004DSCJ,,FDC1004:DSC0010B,C2652081
+U8,1,W25Q32JVSS,,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,C179173
+U9,1,ESP32-C3-WROOM-02,,RF_Module:ESP32-C3-WROOM-02,C2944070
