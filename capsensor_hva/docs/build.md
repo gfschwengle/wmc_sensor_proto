@@ -111,7 +111,7 @@ Follow the bring-up procedure in `hardware/docs/bringup.md`.
 1. **Install PlatformIO**
    ```bash
    # Using Python pip
-   pip install platformio
+   pip install -U platformio
    
    # Or install VS Code extension
    # Search for "PlatformIO IDE" in VS Code extensions
